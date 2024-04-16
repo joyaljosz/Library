@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#addbook{
+    margin-left: 40%;
+    margin-top: 40px;
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: thistle;
+}
+
+input{
+    height: 20px;
+    width: 150px;
+    border-radius: 5px;
+}
+
+#bookbtn{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+#newbook {
+    width: 430px;
+    height: 45px;
+    border-radius: 10px;
+    color: white;
+    align-items: center;
+    margin-left: 30%;
+    color: black;
+    
+}
+
+.book-card {
+    background-color:beige;
+    color: black;
+    align-items: center;
+    margin-top: 7%;
+    margin-left: 40%;
+    /* width: 30%; */
+    padding-top: 25px;
+    border-radius: 10px;
+    height: 200px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#btn{
+    height: 30px;
+    width: 100px;
+    background-color: burlywood;
+    border-radius: 5px;
+}
